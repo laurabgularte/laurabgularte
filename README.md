@@ -1,14 +1,11 @@
 ## Hi there! I am Laura 👋
 
-<div style="display: flex; flex-direction: row;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laurabgularte&show_icons=true&theme=material-palenight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurabgularte&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
-</a>
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=laurabgularte&show_icons=true&theme=material-palenight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurabgularte&theme=material-palenight&langs_count=8&layout=compact" /></div>
 </div>
-
 
  ## Technologies that I'm focused on right now:
 <p align="center">
