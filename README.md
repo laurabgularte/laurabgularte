@@ -1,7 +1,7 @@
 ## Hi there! I am Laura 👋
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=laurabgularte&show_icons=true&theme=material-palenight" />
+
 
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurabgularte&theme=material-palenight&langs_count=8&layout=compact" /></div>
 </div>
