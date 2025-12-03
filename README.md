@@ -2,10 +2,6 @@
 
 <div class='container'>
 
-
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurabgularte&theme=material-palenight&langs_count=8&layout=compact" /></div>
-</div>
-
  ## Technologies that I'm focused on right now:
 <p align="center">
   <a href="https://skillicons.dev">
