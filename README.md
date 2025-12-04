@@ -2,8 +2,6 @@
 
 <div class='container'>
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurabgularte&show_icons=true&theme=dark)
-
  ## Technologies that I'm focused on right now:
 <p align="center">
   <a href="https://skillicons.dev">
