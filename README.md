@@ -2,8 +2,6 @@
 
 <div align=center class='container'>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=laurabgularte&theme=dark)](https://git.io/streak-stats)
-
  ## Technologies that I'm focused on right now:
 <p align="center">
   <a href="https://skillicons.dev">
