@@ -2,6 +2,14 @@
 
 <div align=center class='container'>
 
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laurabgulate&theme=dark&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laurabgularte&theme=dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markshawn2020&theme=buefy) -->
+
+</div>
+
+
  ## Technologies that I'm focused on right now:
 <p align="center">
   <a href="https://skillicons.dev">
