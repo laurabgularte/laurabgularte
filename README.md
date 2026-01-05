@@ -10,10 +10,10 @@
 </div>
 
 
- ## Technologies that I'm focused on right now:
+ ## Technologies that I use to work/study:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,py" />
+    <img src="https://skillicons.dev/icons?i=git,bash,kali,linux,vscode,c,py" />
   </a>
 </p>
   
