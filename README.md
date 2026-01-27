@@ -5,7 +5,7 @@
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laurabgulate&theme=dark&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laurabgularte&theme=dark)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markshawn2020&theme=buefy) -->
+
 
 </div>
 
