@@ -5,19 +5,6 @@
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laurabgulate&theme=dark&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laurabgularte&theme=dark)
-
-
-</div>
-
-
- ## Most used technologies:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,kali,linux,vscode,c,py" />
-  </a>
-</p>
-  
-  ##
  
 <div align=center> 
   <a href="https://www.youtube.com/@laurabgularte" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
