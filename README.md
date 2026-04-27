@@ -1,4 +1,3 @@
-## Hi there! I am Laura 👋
 
 <div align=center class='container'>
 
