@@ -1,14 +1,38 @@
+# Olá, eu sou a Laura Gularte 👋
 
-<div align=center class='container'>
+Atualmente, foco meus estudos em desenvolvimento backend, arquitetura de bancos de dados
+e infraestrutura de redes.
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laurabgularte&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laurabgulate&theme=dark&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laurabgularte&theme=dark)
- 
-<div align=center> 
-  <a href="https://www.youtube.com/@laurabgularte" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/laurabgularte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:laurabgularte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laurabgularte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+- 🔭 Atualmente trabalhando no projeto **Cadastra Aí** (Gestão de refeições).
+- 🌱 Aprofundando conhecimentos em **Sistemas Operacionais** e **SQL**.
+- 👯 Aberta a colaborações nos mais variados projetos.
+
+### 🛠 Tecnologias e Ferramentas (em constante desenvolvimento)
+
+- **DevOps e Ferramentas de Desenvolvimento:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Linux Shell](https://img.shields.io/badge/Linux_Shell-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+- **Design e Prototipagem:**
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
+
+- **Sistemas Digitais e Hardware:** ![Logisim](https://img.shields.io/badge/Logisim-Circuit_Design-red)
+  ![Boolean Algebra](https://img.shields.io/badge/Boolean_Algebra-Logic-lightgrey)
+  ![Karnaugh Maps](https://img.shields.io/badge/Karnaugh_Maps-Optimization-yellow)
+
+- **Infraestrutura e Redes:** ![VLAN](https://img.shields.io/badge/VLAN-Networking-orange)
+  ![P4](https://img.shields.io/badge/P4-Language-blue)
+  ![Fiber Optics](https://img.shields.io/badge/Fiber_Optics-Tech-grey)
+
+### 🚀 Projetos Principais
+
+- **Cadastra Aí:** Sistema para automação de registro de almoços, desenvolvido com Node.js e PostgreSQL.
+- **Shell em C:** Implementação de um interpretador de comandos para estudo de chamadas de sistema e processos.
+- **Crypto Tracker:** Monitor de criptomoedas em tempo real utilizando APIs externas e JavaScript.
+- **Conversor de Moedas:** Ferramenta de automação com Python e interface gráfica (Tkinter).
+
+### 📊 Estatísticas
+
+![Estatísticas da Laura](https://github-readme-stats.vercel.app/api?username=laurabgularte&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabgularte&layout=compact&theme=dracula)
