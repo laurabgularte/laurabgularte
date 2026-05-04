@@ -17,10 +17,6 @@ e infraestrutura de redes.
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
 
-- **Sistemas Digitais e Hardware:** ![Logisim](https://img.shields.io/badge/Logisim-Circuit_Design-red)
-  ![Boolean Algebra](https://img.shields.io/badge/Boolean_Algebra-Logic-lightgrey)
-  ![Karnaugh Maps](https://img.shields.io/badge/Karnaugh_Maps-Optimization-yellow)
-
 - **Infraestrutura e Redes:** ![VLAN](https://img.shields.io/badge/VLAN-Networking-orange)
   ![P4](https://img.shields.io/badge/P4-Language-blue)
   ![Fiber Optics](https://img.shields.io/badge/Fiber_Optics-Tech-grey)
