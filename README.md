@@ -32,4 +32,4 @@ e infraestrutura de redes.
 
 ![Laura's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=laurabgularte&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=laurabgularte&theme=dracula)](https://github.com/laurabgularte/github-readme-stats-fast)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabgularte&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=laurabgularte)](https://github.com/laurabgularte/github-readme-stats)
