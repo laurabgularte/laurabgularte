@@ -30,5 +30,5 @@ e infraestrutura de redes.
 
 ### 📊 Estatísticas
 
-![Estatísticas da Laura](https://github-readme-stats.vercel.app/api?username=laurabgularte&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurabgularte&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabgularte&layout=compact&theme=dracula)
