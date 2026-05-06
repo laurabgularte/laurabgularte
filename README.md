@@ -23,7 +23,6 @@ e infraestrutura de redes.
 
 ### 🚀 Projetos Principais
 
-- **Cadastra Aí:** Sistema para automação de registro de almoços, desenvolvido com Node.js e PostgreSQL.
 - **Shell em C:** Implementação de um interpretador de comandos para estudo de chamadas de sistema e processos.
 - **Crypto Tracker:** Monitor de criptomoedas em tempo real utilizando APIs externas e JavaScript.
 - **Conversor de Moedas:** Ferramenta de automação com Python e interface gráfica (Tkinter).
