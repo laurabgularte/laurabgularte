@@ -21,13 +21,9 @@ e infraestrutura de redes.
   ![P4](https://img.shields.io/badge/P4-Language-blue)
   ![Fiber Optics](https://img.shields.io/badge/Fiber_Optics-Tech-grey)
 
-### 🚀 Projetos Principais
-
-- **Shell em C:** Implementação de um interpretador de comandos para estudo de chamadas de sistema e processos.
-- **Crypto Tracker:** Monitor de criptomoedas em tempo real utilizando APIs externas e JavaScript.
-- **Conversor de Moedas:** Ferramenta de automação com Python e interface gráfica (Tkinter).
 
 ### 📊 Estatísticas
 
 ![Laura's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=laurabgularte&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=laurabgularte&theme=dracula)](https://github.com/laurabgularte/github-readme-stats-fast)
+![As mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabgularte&layout=compact&theme=dracula&count_private=true)
