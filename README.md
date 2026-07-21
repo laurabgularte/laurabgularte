@@ -7,6 +7,8 @@ e infraestrutura de redes.
 - 🌱 Aprofundando conhecimentos em **Sistemas Operacionais** e **SQL**.
 - 👯 Aberta a colaborações nos mais variados projetos.
 
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L8Q323M4V7)
+
 ### 🛠 Tecnologias e Ferramentas (em constante desenvolvimento)
 
 - **DevOps e Ferramentas de Desenvolvimento:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
