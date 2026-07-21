@@ -1,30 +1,18 @@
 # Olá, eu sou a Laura Gularte 👋
 
-Atualmente, foco meus estudos em desenvolvimento backend, arquitetura de bancos de dados
-e infraestrutura de redes.
-
-- 🔭 Atualmente trabalhando no projeto **Cadastra Aí** (Gestão de refeições).
-- 🌱 Aprofundando conhecimentos em **Sistemas Operacionais** e **SQL**.
-- 👯 Aberta a colaborações nos mais variados projetos.
 
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L8Q323M4V7)
 
-### 🛠 Tecnologias e Ferramentas (em constante desenvolvimento)
+Atualmente, foco meus estudos em desenvolvimento fullstack, arquitetura de bancos de dados
+e infraestrutura de redes.
 
-- **DevOps e Ferramentas de Desenvolvimento:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Linux Shell](https://img.shields.io/badge/Linux_Shell-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-- **Design e Prototipagem:**
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-  ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
-
-- **Infraestrutura e Redes:** ![VLAN](https://img.shields.io/badge/VLAN-Networking-orange)
-  ![P4](https://img.shields.io/badge/P4-Language-blue)
-  ![Fiber Optics](https://img.shields.io/badge/Fiber_Optics-Tech-grey)
+- 🌱 Aprofundando conhecimentos em **Python**, **SQL** e **React**.
+- 👯 Aberta a colaborações nos mais variados projetos.
 
 
 ### 📊 Estatísticas
 
 ![Laura's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=laurabgularte&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=laurabgularte&theme=dracula)](https://github.com/laurabgularte/github-readme-stats-fast)
+
+
