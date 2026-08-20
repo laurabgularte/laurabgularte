@@ -1,13 +1,11 @@
 # Hello, I am Laura Gularte 👋
 
 
-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L8Q323M4V7)
-
 Currently focused on database architecture and network infrastructure.
 
-- 🌱 Learning Python, SQL, and React.
+
 - 👥 Open to collaborations on a wide variety of projects.
-- 
+ 
 
 ## 📊 Stats
 
