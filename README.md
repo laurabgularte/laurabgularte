@@ -61,7 +61,7 @@ I am a Computer Science student building scalable applications and well-structur
 ### 📫 Vamos nos conectar?/ Let's connect?
 
 - 💼 **LinkedIn:** [linkedin.com/in/laurabgularte](https://linkedin.com/in/laurabgularte) 
-- ✉️ **E-mail:** [contato@exemplo.com](mailto:laurabgularte@gmail.com)
+- ✉️ **E-mail:** [laurabgularte@gmail.com](mailto:laurabgularte@gmail.com)
 - 📍 **Localização:** Ibirubá, Rio Grande do Sul, Brasil
 
 
