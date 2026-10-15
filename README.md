@@ -2,13 +2,13 @@
 
  Engenhando soluções de software com foco em **Desenvolvimento Backend, Arquitetura de Sistemas e Programação de Baixo Nível**.
 
-Sou estudante de Ciência da Computação e atuo construindo aplicações escaláveis, APIs REST bem estruturadas e explorando os fundamentos da computação — desde chamadas de sistema em C até sistemas web completos.
+Sou estudante de Ciência da Computação e atuo construindo aplicações escaláveis, APIs REST bem estruturadas e explorando os fundamentos da computação.
 
 
 
 Engineering software solutions with a focus on **Backend Development, System Architecture, and Low-Level Programming**.
 
-I am a Computer Science student building scalable applications and well-structured REST APIs, while exploring the fundamentals of computing—from C system calls to full-scale web systems.
+I am a Computer Science student building scalable applications and well-structured REST APIs, while exploring the fundamentals of computing.
 
 
 ---
