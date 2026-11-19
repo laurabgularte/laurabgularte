@@ -5,7 +5,7 @@ Foco em transformar processos manuais complexos em arquiteturas eficientes e obs
 
 ---
 
-### 🛠️ Engenharia & Stack
+### 🛠️ Stack
 
 * **Engenharia de Dados & Analytics:** Construção de fluxos ETL automatizados, integração de APIs corporativas, modelagem em PostgreSQL e dashboards estratégicos (Power BI / DAX).
 * **Desenvolvimento Backend & Web:** Criação de APIs robustas e tipadas com TypeScript (Node.js, Fastify, Prisma) e Python (FastAPI), além de interfaces reativas com React e Next.js.
